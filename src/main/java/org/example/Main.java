@@ -15,7 +15,7 @@ public class Main {
             // for you, but you can always add more by pressing Cmd+F8.
             System.out.println("i = " + i);
             System.out.println("this is second commit");
-            System.out.println("this comment is after creating frist branch");
+            System.out.println("this comment is after creating first branch");
         }
     }
 }
